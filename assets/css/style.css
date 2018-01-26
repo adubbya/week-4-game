@@ -1,9 +1,19 @@
+.crystal-buttons {
+  padding: 10px;
+  height: auto;
+}
+
 #total-crystals {
 padding: 20px;
 font-size: 24px;
 }
 
-#crystal-buttons {
-  padding-top: 60px;
-  padding-bottom: 60px;
+#container {
+  padding-top: 10px;
+  padding-bottom: 10px;
   }
+
+  $("#random-number").html(randomNumber);
+  $("#random-number").html(randomNumber);
+  $("#random-number").html(randomNumber);
+  $("#random-number").html(randomNumber);
